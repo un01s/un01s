@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @un01s
 - 👀 I’m interested in computers
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on computer security
+- 💞️ I’m looking forward to working on toolchains and virtual machines
 - 📫 How to reach me un01s @ twitter
 
 <!---
