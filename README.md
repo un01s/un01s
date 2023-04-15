@@ -18,7 +18,7 @@ class un01s():
     self.twitter = "@un01s";
     
   def __str__(self):
-    return self.name
+    return self.username
 
 if __name__ == '__main__':
     me = un01s()
