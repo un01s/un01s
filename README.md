@@ -9,3 +9,17 @@
 un01s/un01s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+```python
+class un01s():
+    
+  def __init__(self):
+    self.username = "un01s";
+    self.twitter = "@un01s";
+    
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = un01s()
+```
