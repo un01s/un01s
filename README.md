@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @un01s
 - 👀 I’m interested in computers
-- 🌱 I’m currently learning programming
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me un01s @ twitter
 
 <!---
